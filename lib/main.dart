@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:to_do_list_clean_bloc/features/presentation/screens/to_do_list.screen.dart';
+
+import 'features/todo/presentation/screens/to_do_list.screen.dart';
 
 void main() {
   runApp(const MyApp());
